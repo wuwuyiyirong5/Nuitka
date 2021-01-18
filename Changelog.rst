@@ -89,6 +89,9 @@ fixes and new features.
 
 -  Standalone: Adding missing import for SciPy 1.6 support.
 
+-  Windows: Fix, only export required symbols when using MinGW64 in
+   module mode.
+
 **************
  New Features
 **************
